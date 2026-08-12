@@ -1,2 +1,40 @@
-# calculator
-A responsive calculator built using HTML, CSS, and JavaScript with basic arithmetic operations, percentage calculation, delete functionality, keyboard support, and a mobile-friendly design.
+# Calculator
+
+A simple, responsive calculator built using **HTML, CSS, and JavaScript**.
+
+## Features
+
+* Basic arithmetic operations
+* Addition, subtraction, multiplication, and division
+* Percentage calculation
+* Delete and clear buttons
+* Decimal calculations
+* Keyboard support
+* Responsive mobile-friendly design
+* Clean and simple user interface
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+## Project Structure
+
+```text
+calculator/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## How to Run
+
+1. Download or clone the repository.
+2. Open `index.html` in any web browser.
+3. Start calculating.
+
+## Purpose
+
+This project was created as a frontend development practice project to improve skills in HTML, CSS, JavaScript, DOM manipulation, event handling, and responsive web design.
