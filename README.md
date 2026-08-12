@@ -29,12 +29,6 @@ calculator/
 └── README.md
 ```
 
-## How to Run
-
-1. Download or clone the repository.
-2. Open `index.html` in any web browser.
-3. Start calculating.
-
 ## Purpose
 
 This project was created as a frontend development practice project to improve skills in HTML, CSS, JavaScript, DOM manipulation, event handling, and responsive web design.
